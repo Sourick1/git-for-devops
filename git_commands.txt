@@ -1,0 +1,13 @@
+# Git Commands – (Part 1)
+
+git init        → create a new repository  
+git status      → show current repo state  
+git add <file>  → stage a specific file  
+git add .       → stage all changes  
+git commit -m   → save staged changes  
+
+git clone <url> → copy a remote repo locally  
+git pull        → fetch and merge remote changes  
+git push        → send local commits to remote  
+git log         → view commit history  
+git diff        → show file changes
